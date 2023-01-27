@@ -22,7 +22,7 @@
     ]
   },
   "plugins": ["react", "import", "jsx-a11y"],
-  "parser": "node_modules/@babel/eslint-parser",
+  "parser": "react-app/node_modules/@babel/eslint-parser",
   "parserOptions": {
     "ecmaVersion": 2018,
     "sourceType": "module",
